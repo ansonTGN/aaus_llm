@@ -23,7 +23,7 @@ async def consultar_llm_async(
     url_base: Optional[str] = None,
     imagen: Optional[str] = None,
     timeout: int = 30
-) -> str:
+    ) -> str:
     """
     Consulta un LLM de varios proveedores de forma asíncrona, soportando texto e imágenes.
 
