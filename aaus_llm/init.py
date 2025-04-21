@@ -1,0 +1,1 @@
+from .cliente import consultar_llm_async
