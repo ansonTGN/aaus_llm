@@ -1,5 +1,3 @@
-Okay, here is the content optimized for a standard `README.md` file, based on the provided documentation text.
-
 ```markdown
 # 📘 aaus_llm SDK Documentation
 
