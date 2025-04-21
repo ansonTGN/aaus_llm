@@ -187,5 +187,5 @@ import aaus_llm
 Puedes instalar la última versión directamente desde GitHub usando pip:
 
 ```bash
-pip install git+https://github.com/TU_USUARIO/aaus_llm.git
+pip install git+https://github.com/ansonTGN/aaus_llm.git
 ```
